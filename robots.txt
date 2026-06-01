@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wilsonteo2k.github.io/LindaAluminium/sitemap.xml
